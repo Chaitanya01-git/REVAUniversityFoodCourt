@@ -59,15 +59,8 @@ A **fully responsive food ordering website** for REVA University’s Food Court.
 
 ## 🌍 Deployment  
 This project is deployed on **Vercel**.  
-👉 Live Website: [Your Vercel Link Here]  
-
----
-
-## 📷 Screenshots  
-*(Add screenshots of homepage, menu, and order page after deployment)*  
-
----
-
+👉 Live Website: [https://reva-university-food-court.vercel.app/] 
+ 
 ## 🙌 Acknowledgements  
 - Built during the **Full Stack Development Workshop** at **REVA University**.  
 - AI-assisted development using [bolt.dev](https://bolt.dev).  
